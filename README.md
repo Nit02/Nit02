@@ -15,7 +15,7 @@ Backend Development:
 Java • Spring Boot • Spring MVC • REST APIs • JDBC • Hibernate
 MySQL • Oracle SQL • Maven
 Frontend Development:
-React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
+React.js • Node.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
 Tools & Technologies:
 Git/GitHub • Postman • Eclipse IDE • VS Code • Apache Tomcat
 Core Concepts:
